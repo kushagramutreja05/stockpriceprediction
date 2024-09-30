@@ -1,0 +1,14 @@
+# Ignore the virtual environment folder
+
+stock/
+
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore large TensorFlow and other compiled files
+*.dylib
+*.so
+*.dll
